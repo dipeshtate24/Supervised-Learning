@@ -1,2 +1,2 @@
 # Supervised-Learning
-Learning Regression on IRIS Dataser
+Learning Regression on Hours and Scores
